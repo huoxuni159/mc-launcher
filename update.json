@@ -1,12 +1,13 @@
 {
-  "version": "2.8",
-  "url": "https://github.com/huoxuni159/mc-launcher/releases/download/v2.8/MCLauncher.exe",
-  "sha256": "e5bcf3566903bafb0b1e82ed79b23f8fa2fb2eb27d1b4fbc60ee3f9eabebd336",
-  "size": 21820337,
+  "version": "2.9",
+  "url": "https://github.com/huoxuni159/mc-launcher/releases/download/v2.9/MCLauncher.exe",
+  "sha256": "3f901947a8c9843f2a82ac84b4902bba82dd54c36854edc4555a807f8defbb2a",
+  "size": 21825309,
   "notes": [
-    "整个界面换成深色液态玻璃：圆角卡片、深色输入框和列表、柔和高亮，看着更像正式软件",
-    "左上角标题栏只留「MC 启动器 v2.8」，不再出现 PCL2 风格字样",
-    "打开就自己检查有没有新版本，有的话点一下自动下载、替换、重启",
-    "更新完成后会列出这次改了什么，不用自己去翻"
+    "不用再自己填 Java 路径：启动时自动扫一遍本机（各个盘、常见安装目录），找到能用的直接填好",
+    "新版本要 Java 25、老版本要 Java 21，启动前自动挑最合适那个；不够用时会在本机找到的 Java 里自动换",
+    "设置页多了【自动查找】，点了就重新扫一遍，还会列出本机另外装了几个 Java",
+    "每次都在屏幕中间出现，不会越开越偏跑到屏幕外面",
+    "版本、Mod、存档、资源包都放在启动器旁边的 .minecraft 文件夹里，换电脑或搬目录时一起带走，不用再记 C:\\mc"
   ]
 }
