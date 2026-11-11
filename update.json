@@ -1,12 +1,12 @@
 {
-  "version": "2.7",
-  "url": "https://github.com/huoxuni159/mc-launcher/releases/download/v2.7/MCLauncher.exe",
-  "sha256": "26589cd040270c0708ecfc180ce2cb5ebed386d319937b80b240a5d9f4892af6",
-  "size": 20730409,
+  "version": "2.8",
+  "url": "https://github.com/huoxuni159/mc-launcher/releases/download/v2.8/MCLauncher.exe",
+  "sha256": "e5bcf3566903bafb0b1e82ed79b23f8fa2fb2eb27d1b4fbc60ee3f9eabebd336",
+  "size": 21820337,
   "notes": [
-    "这次起更新地址已经写进启动器，打开就自己检查新版本，不用任何人手填",
-    "发现新版本后点一下，自动下载、替换、重启，完成后列出改了什么",
-    "更新前会先告诉新版本改了什么、多大，你可以决定更不更",
-    "更新完成后自动重开，并把这次的改动再列一遍"
+    "整个界面换成深色液态玻璃：圆角卡片、深色输入框和列表、柔和高亮，看着更像正式软件",
+    "左上角标题栏只留「MC 启动器 v2.8」，不再出现 PCL2 风格字样",
+    "打开就自己检查有没有新版本，有的话点一下自动下载、替换、重启",
+    "更新完成后会列出这次改了什么，不用自己去翻"
   ]
 }
